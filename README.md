@@ -1,8 +1,8 @@
 # GIS-Projects
 
-## Visualization 
+### Visualization 1
 
 ![Fig1](https://github.com/kmj333/GIS-Projects/blob/main/GISviz1.jpg)
 
-## Visualization 2
+### Visualization 2
 ![Fig2](https://github.com/kmj333/GIS-Projects/blob/main/GISviz2.jpg)
