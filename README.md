@@ -2,7 +2,7 @@
 
 ### Visualization 1
 
-![Fig1](https://github.com/kmj333/GIS-Projects/blob/main/GISviz1.jpg)
+![Fig1](https://github.com/kmj333/GIS-Projects/blob/main/GISviz1_1.jpg)
 
 ### Visualization 2
 
