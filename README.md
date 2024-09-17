@@ -14,4 +14,7 @@
 ### Visualization 4
 ![Fig5](https://github.com/kmj333/GIS-Projects/blob/main/GISviz5.jpg)
 
+### Visualization 5
+![Fig6](https://github.com/kmj333/GIS-Projects/blob/main/GISviz6.jpg)
+
 
