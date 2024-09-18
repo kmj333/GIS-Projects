@@ -2,9 +2,9 @@
 
 ### Visualization 1
 
-#### To create this map highlighting lakes, roads, and wetlands, I began by loading vector data layers from a geopackage using the Data Source Manager. Each layer was carefully organized: lakes in blue, roads as precise lines, and wetlands in green. This setup ensured a clear and intuitive representation of the natural and built environments.
-
 ![Fig1](https://github.com/kmj333/GIS-Projects/blob/main/GISviz1_1.jpg)
+
+#### This GIS map features major water bodies in the region, using vector data from a geopackage. Styled with distinct blue shading, the lakes are prominently displayed, making their spatial distribution clear and easy to analyze in relation to roads and wetlands. To create this map, I loaded vector data layers from the geopackage using the Data Source Manager, ensuring a clear and intuitive representation of both natural and built environments.
 
 ### Visualization 2
 
