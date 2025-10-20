@@ -21,3 +21,6 @@
 ### Visualization 6
 ![Fig7](https://github.com/kmj333/GIS-Projects/blob/main/GISviz7_1.jpg)
 
+### Visualization 7
+![Fig7](https://github.com/kmj333/GIS-Projects/blob/main/GISviz8.jpg)
+
