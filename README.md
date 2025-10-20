@@ -17,10 +17,23 @@
 ### Visualization 5
 ![Fig6](https://github.com/kmj333/GIS-Projects/blob/main/GISviz6.jpg)
 
-
 ### Visualization 6
 ![Fig7](https://github.com/kmj333/GIS-Projects/blob/main/GISviz7_1.jpg)
 
 ### Visualization 7
 ![Fig7](https://github.com/kmj333/GIS-Projects/blob/main/GISviz8.jpg)
+
+### Visualization 8
+![Fig6](https://github.com/kmj333/GIS-Projects/blob/main/GISviz9.jpg)
+
+### Visualization 9
+![Fig7](https://github.com/kmj333/GIS-Projects/blob/main/GISviz10.jpg)
+
+### Visualization 10
+![Fig7](https://github.com/kmj333/GIS-Projects/blob/main/GISviz11.jpg)
+
+### Visualization 11
+![Fig7](https://github.com/kmj333/GIS-Projects/blob/main/GISviz12.jpg)
+
+
 
