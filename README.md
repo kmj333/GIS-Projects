@@ -36,7 +36,7 @@
 ![Fig7](https://github.com/kmj333/GIS-Projects/blob/main/GISviz12.jpg)
 
 ### Visualization 12
-![Fig7](https://github.com/kmj333/GIS-Projects/blob/main/GISviz13.jpg)
+![Fig7](https://github.com/kmj333/GIS-Projects/blob/main/GISvis13.jpg)
 
 
 
